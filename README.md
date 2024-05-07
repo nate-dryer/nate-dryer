@@ -7,11 +7,11 @@
 
 - 🔭 Currently working on improvement my OpenAI development skills.
 - 🌐 Check out my virtual business card, here: [natedryer.com](https://www.natedryer.com).
-- 📝 Follow my [Medium](https://medium.com/@natedryer) for regular articles on UX, data analysis, and AI applications.
+- 📝 Follow my [Medium]([https://medium.com/@natedryer]) for regular articles on UX, data analysis, and AI applications.
 - 🚀 Founder of AI Trainers, making AI accessible. Join our upcoming workshop in May 2024!
 - 💬 Ask me about Product Development in AI/ML, User Experience Strategies, and Business Intelligence.
 - 📫 Reach me at: [nate@natedryer.com](mailto:nate@natedryer.com)
-- 📄 View my professional journey on [My Resume](https://registry.jsonresume.org/nate-dryer).
+- 📄 View my auto-generated resume, here: [My Resume](https://registry.jsonresume.org/nate-dryer).
 - ⚡ Fun fact: Broke my arm arm-wrestling in college—a great icebreaker at gatherings!
 
 <h3 align="left">Connect with me:</h3>
