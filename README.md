@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nate Dryer</h1>
-<h2 align="center">AI/ML Product Manager with Dev Superpowers | X-Lyft Innovator</h2>
+<h2 align="center">AI/ML Product Manager with a few Dev Superpowers  </h2>
 
 <p align="center">
   Based in Los Angeles with my heart in San Francisco. I leverage my self-taught development skills to make an impact in technology, specializing in AI, user experience, and data-driven decision-making.
