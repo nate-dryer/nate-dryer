@@ -12,7 +12,6 @@
 - 💬 Ask me about Product Development in AI/ML, User Experience Strategies, and Business Intelligence.
 - 📫 Reach me at: [nate@natedryer.com](mailto:nate@natedryer.com).
 - 📝 Follow my [Medium](https://medium.com/@natedryer) for regular articles on UX, data analysis, and AI applications.
-- 📄 View my auto-generated resume, here: [My Resume](https://registry.jsonresume.org/nate-dryer).
 - ⚡ Fun fact: Broke my arm arm-wrestling in college—a great icebreaker at gatherings!
 
 <h3 align="left">Connect with me:</h3>
