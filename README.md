@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nate Dryer</h1>
-<h3 align="center">A product manager with AI/ML development skills</h3>
+<h1 align="center">Hi there 👋, I'm Nate Dryer</h1>
+<h2 align="center">AI/ML Product Manager with Dev Superpowers | X-Lyft Innovator</h2>
 
-- 🌱 I’m currently learning **Tensor FLow**
+<p align="center">
+  Based in Los Angeles with my heart in San Francisco. I leverage my self-taught development skills to make an impact in technology, specializing in AI, user experience, and data-driven decision-making.
+</p>
 
-- 👨‍💻 All of my projects are available at [https://www.natedryer.com](https://www.natedryer.com)
-
-- 💬 Ask me about **Product Management, AI Tools**
-
-- 📫 How to reach me **nate@natedryer.com**
-
-- 📄 Know about my experiences [https://registry.jsonresume.org/nate-dryer](https://registry.jsonresume.org/nate-dryer)
-
-- ⚡ Fun fact **I broke my arm arm-wrestling in college (maybe not so fun).**
+- 🔭 I’m currently deepening my expertise in <strong>Machine Learning</strong> with a focus on <strong>TensorFlow</strong>.
+- 🌐 Visit my website to explore my projects and insights: [natedryer.com](https://www.natedryer.com)
+- 📝 I regularly write articles on [Medium](https://medium.com/@natedryer) about UX, data analysis, and AI applications.
+- 🚀 I'm the founder of AI Trainers, a group dedicated to making AI accessible. Join us for our first workshop in May 2024!
+- 💬 Ask me about <strong>Product Development in AI/ML, User Experience Strategies</strong>, and <strong>Business Intelligence</strong>.
+- 📫 How to reach me: [nate@natedryer.com](mailto:nate@natedryer.com)
+- 📄 Learn more about my professional journey: [My Resume](https://registry.jsonresume.org/nate-dryer)
+- ⚡ Fun fact: I once broke my arm arm-wrestling in college—a great story for gatherings!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
