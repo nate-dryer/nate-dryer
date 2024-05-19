@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Nate Dryer</h1>
+<h2 align="center">AI/ML Product Developer | Product Manager | Human-Centered Design </h2>
 
 # About Me:
-<p align="center"> 📍 Based in Los Angeles, my heart in San Francisco, I'm a Product Manager with AI/Ml development skills and a passion for shipping initutive human-centered products.<//>
+<p align="left"> 📍 Based in Los Angeles, my heart in San Francisco, I'm a Product Manager with AI/Ml development skills and a passion for shipping initutive human-centered products.<//>
 
 # Highlights:
 - **🚀 Mobile Innovation**: Shipped the first native mobile banking apps at Fifth Third Bank.
