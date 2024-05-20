@@ -26,7 +26,7 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 
 </details>
 
-### Projects
+### My Projects
 
 <details open>
 <summary>Click to expand</summary>
@@ -37,7 +37,7 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 
 </details>
 
-### Skills
+### My Skills
 
 <details open>
 <summary>Click to expand</summary>
