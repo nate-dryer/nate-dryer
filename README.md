@@ -29,7 +29,7 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 ### My Projects
 
 <details open>
-<summary>![Status](https://img.shields.io/badge/Status-In_Progress-blue)</summary>
+<summary> ![Status](https://img.shields.io/badge/Status-In_Progress-blue) </summary>
 
   - Founded [AI Trainers](https://www.aitrainers.io), a volunteer group, whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. _(Update: Facilitated a virtual workshop for Cincinnati Local Public Libraries in May 2024.)
   -  Currently contributing to [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter), leveraging the [Computer API](https://docs.openinterpreter.com/code-execution/computer-api) to automate tedious macOS workflows.
