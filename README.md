@@ -1,6 +1,4 @@
-## Choose a resume version:
 
-[Click here to select a resume](https://nate-dryer.github.io/resume.html)
 
 Hi, I'm Nate, I'm a Product Manager specializing in AI-powered desktop and mobile solutions, human-centered design, and data analysis. With over a decade of experience across various industries, I've driven digital transformation and created intuitive, impactful products. I excel in fast-paced environments, using a first principles approach to deconstruct challenges and develop effective, innovative desktop and mobile solutions.
 
@@ -36,3 +34,9 @@ Hi, I'm Nate, I'm a Product Manager specializing in AI-powered desktop and mobil
 - [Resume](https://registry.jsonresume.org/natedryer?theme=macchiato)
 - [Personal Site](https://www.natedryer.com)
 - [Email](mailto:nate@natedryer.com)
+
+---
+
+## My JSON Resume:
+
+[Click here to view or download my resume](https://nate-dryer.github.io/resume.html)
