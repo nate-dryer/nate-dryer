@@ -1,4 +1,6 @@
-![Header Image](https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3)
+<div style="text-align:left">
+  <img src="https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3" alt="Header Image" width="750"/>
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
 [![Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato)
 [![Personal Site](https://img.shields.io/badge/Website-natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
