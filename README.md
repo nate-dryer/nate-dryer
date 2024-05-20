@@ -1,4 +1,4 @@
-![Header Image](https://github.com/nate-dryer/nate-dryer/blob/main/GIF_2.gif)
+![Header Image](https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3)
 
 <h1 align="center">Hi 👋, I'm Nate </h1>
 <h2 align="center">AI/ML Builder | Product Manager | UX & Data Analysis </h2>
