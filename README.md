@@ -1,4 +1,8 @@
-![Header Image](https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3)
+Image with Caption
+<div style="text-align:center">
+  <img src="https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3" alt="Header Image" width="750"/>
+  <p><em>Figure 1: Nate Dryer - UX & Data Analyst</em></p>
+</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 [![Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato)
