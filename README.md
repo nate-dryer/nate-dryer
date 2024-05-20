@@ -20,3 +20,16 @@
 - Buliding Scrappy Teams
 - User Experience (UX) Design
 - Shipping Products
+
+| Category             | Skills                                                                                       |
+|----------------------|----------------------------------------------------------------------------------------------|
+| **AI and Machine Learning** | Machine Learning, Natural Language Processing, Computer Vision, TensorFlow, PyTorch, scikit-learn |
+| **Product Management**      | Product Lifecycle Management, Agile Methodologies, Product Roadmapping, Sprint Planning |
+| **Data Science and Analytics** | Data Analysis, Data Preprocessing, Feature Engineering, Data-Driven Decision Making |
+| **Technical Skills**        | Python, API Development, AI-Powered Solutions, Large Language Models (LLMs)            |
+| **User Experience (UX) Design** | UX Principles, User Interface Improvements, Usability Testing                        |
+| **Project Management and Leadership** | Cross-Functional Team Leadership, Project Planning, Resource Management       |
+| **Business Acumen**         | Aligning AI Projects with Business Goals, Driving Business Value through AI Solutions  |
+| **Communication and Collaboration** | Communicating Technical Concepts to Non-Technical Stakeholders, Team Collaboration |
+| **Continuous Learning and Adaptability** | Staying Updated with AI Trends, Certifications, Open-Source Contributions  |
+| **Ethical AI Practices**    | Bias Mitigation, Fairness, Transparency in AI Development                              |
