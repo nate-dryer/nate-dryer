@@ -16,7 +16,6 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 - Currently contributing to [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter), leveraging the [Computer API](https://docs.openinterpreter.com/code-execution/computer-api) to automate tedious macOS workflows.
 
 ## ⚡ Skills
-Technical Skills:
 
 ### Technical:
 | **Category**                | **Skills**                                                                                                                                                           |
