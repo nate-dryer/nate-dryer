@@ -19,9 +19,9 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 
 </details>
 
-### Projects 👨‍💻yle=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Custom_Color?style=flat-square&logo=langchain&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-FF4500?style=flat-square&logo=liteLLM&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Product Strategy](https://img.shields.io/badge/Product_Strategy-0078D4) ![Product Roadmapping](https://img.shields.io/badge/Product_Roadmapping-DAA520) ![Pricing & Positioning](https://img.shields.io/badge/Pricing_&_Positioning-DC143C) ![Market & User Research](https://img.shields.io/badge/Market_&_User_Research-4682B4) |
 
-<detail open>
+
+<details open>
 <summary>Click to expand</summary>
 
   - Founded [AI Trainers](https://www.aitrainers.io), a volunteer group, whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. _(Update: Facilitated a virtual workshop for Cincinnati Local Public Libraries in May 2024.)_[^1]
