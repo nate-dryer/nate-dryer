@@ -1,31 +1,6 @@
-# JSON Resume Generator
+## Choose a resume version:
 
-Here is a dropdown menu that will open a selected URL:
-
-<div>
-  <label for="url-selector">Choose a resume version:</label>
-  <select id="url-selector" onchange="openURL()">
-    <option value="">--Select an option--</option>
-    <option value="https://registry.jsonresume.org/nate-dryer">Resume 1</option>
-    <option value="https://registry.jsonresume.org/nate-dryer?theme=paper-plus-plus">Resume 2</option>
-    <option value="https://registry.jsonresume.org/nate-dryer?theme=onepage-plus">Resume 3</option>
-    <option value="https://registry.jsonresume.org/nate-dryer?theme=flat">Resume 4</option>
-    <option value="https://registry.jsonresume.org/nate-dryer?theme=rickosborne">Resume 5</option>
-    <option value="https://registry.jsonresume.org/nate-dryer?theme=stackoverflow">Resume 6</option>
-    <option value="https://registry.jsonresume.org/nate-dryer?theme=macchiato">Resume 7</option>
-    <option value="https://registry.jsonresume.org/nate-dryer?theme=kendall">Resume 8</option>
-  </select>
-</div>
-
-<script>
-  function openURL() {
-    var select = document.getElementById("url-selector");
-    var url = select.value;
-    if (url) {
-      window.open(url, "_blank");
-    }
-  }
-</script>
+[Click here to select a resume](https://nate-dryer.github.io/resume.html)
 
 Hi, I'm Nate, I'm a Product Manager specializing in AI-powered desktop and mobile solutions, human-centered design, and data analysis. With over a decade of experience across various industries, I've driven digital transformation and created intuitive, impactful products. I excel in fast-paced environments, using a first principles approach to deconstruct challenges and develop effective, innovative desktop and mobile solutions.
 
