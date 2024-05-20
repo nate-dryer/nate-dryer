@@ -38,9 +38,3 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 </details>
 
 ---
-
-### Sample Code with Syntax Highlighting
-
-```python
-def example_function():
-    print("Hello, World!")
