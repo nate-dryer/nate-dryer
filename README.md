@@ -1,10 +1,6 @@
 ![Header Image](https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3)
-
-<h1 align="center">Hi 👋, I'm Nate </h1>
-<h2 align="center">AI/ML Builder | Product Manager | UX & Data Analysis </h2>
-
 <p align="center">
-  Based in Los Angeles with my heart in San Francisco. I leverage my self-taught development skills to make an impact in technology, specializing in AI, user experience, and data-driven decision-making.
+Based in Los Angeles with my heart in San Francisco. I leverage my self-taught development skills to make an impact in technology, specializing in AI, user experience, and data-driven decision-making.
 </p>
 
 - 🔭 Currently working on improvement my OpenAI development skills.
