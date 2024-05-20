@@ -8,7 +8,6 @@
   <h2>👋 Hi there, I'm Nate</h2>
 </div>
 
-### 😄 About
 I'm a Product Manager specializing in AI-powered desktop and mobile solutions, human-centered design, and data analysis. With over a decade of experience across various industries, I've driven digital transformation and created intuitive, impactful products. I excel in fast-paced environments, using a first principles approach to deconstruct challenges and develop effective, innovative desktop and mobile solutions.
 
 ### 🔥 Current Projects
