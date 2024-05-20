@@ -1,6 +1,6 @@
 Image with Caption
 <div style="text-align:center">
-  <img src="https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3" alt="Header Image" width="600"/>
+  <img src="https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3" alt="Header Image" width="1000"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
