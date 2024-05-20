@@ -9,7 +9,7 @@ Image with Caption
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 
 
-### 👋 Hi there, I'm Nate
+### Hi, I'm Nate 👋
 
 I'm a Product Manager specializing in AI-powered desktop and mobile solutions, human-centered design, and data analysis. With over a decade of experience across various industries, I've driven digital transformation and created intuitive, impactful products. I excel in fast-paced environments, using a first principles approach to deconstruct challenges and develop effective, innovative desktop and mobile solutions.
 
