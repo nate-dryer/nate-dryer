@@ -12,7 +12,7 @@
 I'm AI/ML Product Manager based in Los Angeles with a strong background in development, human-centered design, and data analysis. Over the past decade, I've worked across various industries, driving digital transformation and creating intuitive, impactful products. I thrive in fast-paced environments, leveraging my technical proficiency and scrappy problem-solving skills to ship products and deliver results
 
 ### 🔥 Current Projects
-- **[AI Trainers](www.aitrainers.io):** Founded a non-profit group whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. Facilitated the first virtual seminar for Cincinnati Local Public Libraries on May 2024.
+- **[AI Trainers](www.aitrainers.io):**  Founded a non-profit group whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. Facilitated the first virtual seminar for Cincinnati Local Public Libraries on May 2024.
 - **Open Interpreter Project:** Currently contributing to the Open Interpreter project, leveraging the Computer API to automate tedious macOS workflows.
 
 ## ⚡ Skills 
