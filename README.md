@@ -1,5 +1,5 @@
 ![Header Image](https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3)
-<p align="center">
+<p align="left">
 Based in Los Angeles with my heart in San Francisco. I leverage my self-taught development skills to make an impact in technology, specializing in AI, user experience, and data-driven decision-making.
 </p>
 
