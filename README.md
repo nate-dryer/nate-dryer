@@ -17,7 +17,7 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 
 ## ⚡ Skills
 
-| **Category**                | ** Technical Skills**                                                                                                                                                           |
+| **Category**                |  **Technical Skills**                                                                                                                                                             |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages**                    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **AI/ML**                   | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google_Cloud_AI](https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![OpenAI_API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Custom_Color?style=flat-square&logo=langchain&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-FF4500?style=flat-square&logo=liteLLM&logoColor=white) |
