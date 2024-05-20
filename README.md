@@ -4,7 +4,7 @@
 [![Personal Site](https://img.shields.io/badge/Website-natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 
-## ⚡ Skills:
+# ⚡ Skills:
 - Shipping Products
 - AI/ML Development
 - Data Analysis
