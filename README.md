@@ -4,10 +4,6 @@
 
 I'm a Product Manager specializing in AI-powered desktop and mobile solutions, human-centered design, and data analysis. With over a decade of experience across various industries, I've driven digital transformation and created intuitive, impactful products. I excel in fast-paced environments, using a first principles approach to deconstruct challenges and develop effective, innovative desktop and mobile solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
-[![Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato)
-[![Personal Site](https://img.shields.io/badge/Website-natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 
 ## Connect 🌐
 
