@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 
 <div align="center">
-  <h2>Hi there, I'm Nate Dryer 👋</h2>
+  <h2>👋 Hi there, I'm Nate Dryer.</h2>
 </div>
 
 ### About
