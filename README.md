@@ -19,6 +19,11 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 <details open>
 <summary>Click to expand</summary>
 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
+- [![Resume](https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato)
+- [![Personal Site](https://img.shields.io/badge/natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
+
 - [Email](mailto:nate@natedryer.com)
 - [LinkedIn Profile](wwww.linkedin.com/in/natedryer)
 - [Personal Website](https://www.natedryer.com)
@@ -32,7 +37,6 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 <summary> Click to expand </summary>
 
   - Founded [AI Trainers](https://www.aitrainers.io), a volunteer group, whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. _(Update: Facilitated a virtual workshop for Cincinnati Local Public Libraries in May 2024.)
---- ![Progress](https://progress-bar.dev/50/?scale=100&title=Progress&width=300&color=4caf50&suffix=%)
   -  Currently contributing to [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter), leveraging the [Computer API](https://docs.openinterpreter.com/code-execution/computer-api) to automate tedious macOS workflows.
   -  WIP: Leveraging universal JSON Resume with Github Pages, I developed an interface that auto-generates my resume on demand in a theme appropriate for the viewer. You can check out my work so far at [my resume](https://nate-dryer.github.io/resume.html).
 
