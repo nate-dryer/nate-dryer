@@ -4,10 +4,10 @@
 [![Personal Site](https://img.shields.io/badge/Website-natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 
-##<h2> 👋 Hi there. I'm Nate Dryer</h2> 
+##<h2>👋 Hi there. I'm Nate Dryer</h2> 
 
 ### About
-👋 Hi there. I'm Nate Dryer, an AI/ML Product Manager based in Los Angeles with a strong background in development, human-centered design, and data analysis. Over the past decade, I've worked across various industries, driving digital transformation and creating intuitive, impactful products. I thrive in fast-paced environments, leveraging my technical proficiency and scrappy problem-solving skills to ship products and deliver results
+I'm AI/ML Product Manager based in Los Angeles with a strong background in development, human-centered design, and data analysis. Over the past decade, I've worked across various industries, driving digital transformation and creating intuitive, impactful products. I thrive in fast-paced environments, leveraging my technical proficiency and scrappy problem-solving skills to ship products and deliver results
 
 ### 🔥 Current Projects
 - **AI Trainers (www.aitrainers.io):** Founded a non-profit group whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. Facilitated the first virtual seminar for Cincinnati Local Public Libraries on May 2024.
@@ -21,15 +21,9 @@
 - User Experience (UX) Design
 - Shipping Products
 
-| Category             | Skills                                                                                       |
-|----------------------|----------------------------------------------------------------------------------------------|
-| **AI and Machine Learning** | Machine Learning, Natural Language Processing, Computer Vision, TensorFlow, PyTorch, scikit-learn |
-| **Product Management**      | Product Lifecycle Management, Agile Methodologies, Product Roadmapping, Sprint Planning |
-| **Data Science and Analytics** | Data Analysis, Data Preprocessing, Feature Engineering, Data-Driven Decision Making |
-| **Technical Skills**        | Python, API Development, AI-Powered Solutions, Large Language Models (LLMs)            |
-| **User Experience (UX) Design** | UX Principles, User Interface Improvements, Usability Testing                        |
-| **Project Management and Leadership** | Cross-Functional Team Leadership, Project Planning, Resource Management       |
-| **Business Acumen**         | Aligning AI Projects with Business Goals, Driving Business Value through AI Solutions  |
-| **Communication and Collaboration** | Communicating Technical Concepts to Non-Technical Stakeholders, Team Collaboration |
-| **Continuous Learning and Adaptability** | Staying Updated with AI Trends, Certifications, Open-Source Contributions  |
-| **Ethical AI Practices**    | Bias Mitigation, Fairness, Transparency in AI Development                              |
+| Programming Languages | Frameworks & Libraries | Tools & Platforms |
+|-----------------------|------------------------|-------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
