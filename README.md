@@ -4,7 +4,7 @@
 [![Personal Site](https://img.shields.io/badge/Website-natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 
-##<h2>👋 Hi there. I'm Nate</h2> 
+<h2>👋 Hi there. I'm Nate</h2> 
 
 ### About
 I'm AI/ML Product Manager based in Los Angeles with a strong background in development, human-centered design, and data analysis. Over the past decade, I've worked across various industries, driving digital transformation and creating intuitive, impactful products. I thrive in fast-paced environments, leveraging my technical proficiency and scrappy problem-solving skills to ship products and deliver results
