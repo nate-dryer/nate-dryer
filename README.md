@@ -19,11 +19,6 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 <details open>
 <summary>Click to expand</summary>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com) 
-[![Resume](https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato) 
-[![Personal Site](https://img.shields.io/badge/natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com) 
-
 - [Email](mailto:nate@natedryer.com)
 - [LinkedIn Profile](wwww.linkedin.com/in/natedryer)
 - [Personal Website](https://www.natedryer.com)
