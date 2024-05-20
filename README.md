@@ -17,7 +17,7 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 ### My Stuff 
 
 <details closed>
-<summary>Click to view my contact info</summary>
+<summary>Click to expand</summary>
 
 - [Email](mailto:nate@natedryer.com)
 - [LinkedIn Profile](wwww.linkedin.com/in/natedryer)
