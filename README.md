@@ -7,7 +7,7 @@ I'm an AI/ML Product Manager with developer skills and a passion for Human Cente
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 
 ## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+- Product: Research, Strategy/Vision, Roadmapping, Pricing/Positioning, GTM
+- AI/ML: Python, TensorFlow, NLP, Computer Vision, APIS
+- Design: User Experience (UX), Usability Testing, Prototying
+- Learning React, Vue, Vercel, and a few others
