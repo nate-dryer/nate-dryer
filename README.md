@@ -13,10 +13,10 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 ---
 
 <details open>
-  <summary><h3>Current Projects</h3></summary>
+  <summary><h3>Active Projects</h3></summary>
 
   - Founded [AI Trainers](https://www.aitrainers.io), a volunteer group, whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. _(Update: Facilitated a virtual workshop for Cincinnati Local Public Libraries in May 2024.)_[^1]
-  - Currently contributing to [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter), leveraging the [Computer API](https://docs.openinterpreter.com/code-execution/computer-api) to automate tedious macOS workflows.
+  - Contributing to [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter), leveraging the [Computer API](https://docs.openinterpreter.com/code-execution/computer-api) to automate tedious macOS workflows.
 
   [^1]: This initiative received positive feedback from the community and increased participation in local AI literacy programs.
 </details>
@@ -24,7 +24,7 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 ---
 
 <details open>
-  <summary><h3>Technical Skills</h3></summary>
+  <summary><h3>Skills</h3></summary>
 
   | | |
   |---|---|
