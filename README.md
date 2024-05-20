@@ -2,7 +2,7 @@
 
 
 <p align="left">
-## Hello, I'm Nate! 👋
+### Hello, I'm Nate! 👋
 
 📍 Based in Los Angeles with my heart in San Francisco. I leverage my self-taught development skills to make an impact in technology, specializing in AI, user experience, and data-driven decision-making.
 </p>
