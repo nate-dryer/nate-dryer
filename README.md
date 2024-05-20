@@ -1,4 +1,5 @@
 # JSON Resume Generator
+
 Here is a dropdown menu that will open a selected URL:
 
 <div>
