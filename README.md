@@ -11,15 +11,14 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 
 <details open>
 <summary>Click to expand</summary>
-](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white) |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
-[![Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=flat-square&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato)/Market_Research-FF6347) ![User Research](https://img.shields.io/badge/User_Research-4682B4) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Aha](https://img.shields.io/badge/Aha-0094E9?style=flat-square&logo=aha&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white) |
+[![Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=flat-square&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato)/Market_Research-FF6347) 
 [![Personal Site](https://img.shields.io/badge/Website-natedryer.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 
 </details>
 
-
+### Projects
 
 <details open>
 <summary>Click to expand</summary>
