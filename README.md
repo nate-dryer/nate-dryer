@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3)
 
-<h1 align="center">Hi 👋, I'm Nate dryer</h1>
-<h3 align="center">A AI/ML Product Manager with development skills and a passion for Human-Centered Design.</h3>
+<h1 align="left">Hi 👋, I'm Nate dryer</h1>
+<h3 align="left">A AI/ML Product Manager with development skills and a passion for Human-Centered Design.</h3>
 
 - 🔭 I’m currently working on **leveraging Open Interpreter's Computer API**
 
