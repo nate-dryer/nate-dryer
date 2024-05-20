@@ -1,3 +1,9 @@
+Image with Caption
+<div style="text-align:center">
+  <img src="https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3" alt="Header Image" width="600"/>
+  <p><em>Figure 1: Nate Dryer - UX & Data Analyst</em></p>
+</div>
+
 ![Header Image](https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
 [![Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato)
@@ -15,7 +21,7 @@ I'm a Product Manager specializing in AI-powered desktop and mobile solutions, h
 <details open>
   <summary><h3>Active Projects</h3></summary>
 
-  - Founded [AI Trainers](https://www.aitrainers.io), a volunteer group, whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. _(Update: Facilitated a virtual workshop for Cincinnati Local Public Libraries in May 2024.)_[^1]
+  - Founded [AI Trainers](https://www.aitrainers.io), a volunteer group, whose mission is to make AI more accessible by providing free and virtual custom trainings and resources. _(Update: Facilitated a virtual workshop for Cincinnati Local Public Libraries in May 2024.)
   - Contributing to [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter), leveraging the [Computer API](https://docs.openinterpreter.com/code-execution/computer-api) to automate tedious macOS workflows.
 
   [^1]: This initiative received positive feedback from the community and increased participation in local AI literacy programs.
