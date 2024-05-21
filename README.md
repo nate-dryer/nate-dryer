@@ -9,15 +9,25 @@
 [![Personal Site](https://img.shields.io/badge/natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
 
 ## Hi there, I'm Nate <span class="wave">👋</span><style>
-    .wave {
-        font-size: 2rem; /* Adjust the size as needed */
-        transition: transform 0.3s ease; /* Smooth transition on hover */
-    }
-
-    .wave:hover {
-        transform: rotate(-20deg); /* Rotate the hand on hover */
-    }
-</style>
+  <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @keyframes wave {
+                    0% { transform: rotate(0deg); }
+                    50% { transform: rotate(10deg); }
+                    100% { transform: rotate(0deg); }
+                }
+                .hand {
+                    animation: wave 1s infinite;
+                    display: inline-block;
+                    transform-origin: 70% 70%;
+                }
+            </style>
+            <div class="hand">👋</div>
+        </div>
+    </foreignObject>
+</svg>
 
 
 I'm a Product Manager specializing in AI-powered desktop and mobile solutions, human-centered design, and data analysis. With over a decade of experience across various industries, I've driven digital transformation and shipped intuitive, impactful products. I thrive in fast-paced environments, using a first principles approach to breakdown  problems and build effective, innovative solutions.
