@@ -10,7 +10,8 @@
 
 ## Hi there, I'm Nate👋
   
-I'm a Product Manager specializing in AI-powered desktop and mobile solutions, human-centered design, and data analysis. With over a decade of experience across various industries, I've driven digital transformation and shipped intuitive, impactful products. I thrive in fast-paced environments, using a first principles approach to breakdown  problems and build effective, innovative solutions.
+Product Manager with 10 years experience leveraging AI/ML, UX design, and data analysis to build intuitive, user-centric products that make a real-world impact. Passionate about using first-principle thinking to drive innovation and solve complex problems. Proven track record in leading cross-functional teams to ship digital, mobile, and AI-powered solutions across multiple industries, including healthcare, fintech, and technology.
+
 
 </details>
 
