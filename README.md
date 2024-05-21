@@ -8,7 +8,17 @@
 [![Resume](https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://registry.jsonresume.org/natedryer?theme=macchiato)
 [![Personal Site](https://img.shields.io/badge/natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
 
-## Hi there, I'm Nate 👋
+## Hi there, I'm Nate <span class="wave">👋</span><style>
+    .wave {
+        font-size: 2rem; /* Adjust the size as needed */
+        transition: transform 0.3s ease; /* Smooth transition on hover */
+    }
+
+    .wave:hover {
+        transform: rotate(-20deg); /* Rotate the hand on hover */
+    }
+</style>
+
 
 I'm a Product Manager specializing in AI-powered desktop and mobile solutions, human-centered design, and data analysis. With over a decade of experience across various industries, I've driven digital transformation and shipped intuitive, impactful products. I thrive in fast-paced environments, using a first principles approach to breakdown  problems and build effective, innovative solutions.
 
