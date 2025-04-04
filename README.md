@@ -34,5 +34,5 @@ I'm an ex-Lyft Product Manager turned Ai/ML Freelance Consultant with 10+ years 
 
 - **1,900% Mobile User Growth:** Scaled active app users from 20K to 400K (20x increase) within one year.
 - **$1M+ Savings via UX Overhaul:** Cut costs & improved efficiency 25% by leading data analysis of onboarding experience.
-- **40pt NPS Lift (-15 to +25):** Launched async collaboration platform, also boosting MAU 166%.
+- **40pt NPS Lift (-15 to +25):** Launched async collaboration platform.
 - **250% Mobile Feature Expansion:** Unified platform across three merged companies, increasing customer access to mobile features from 20% to 70%.
