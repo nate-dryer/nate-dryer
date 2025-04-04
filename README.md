@@ -23,7 +23,6 @@ I'm an ex-Lyft Product Manager turned Ai/ML Freelance Consultant with 10+ years 
 
 ### Skills
 
-| | |
 |---|---|
 | **AI/ML** | ![Google Cloud AI](https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Custom_Color?style=flat-square&logo=langchain&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-FF4500?style=flat-square&logo=liteLLM&logoColor=white) |
 | **Product** | ![Product Strategy](https://img.shields.io/badge/Product_Strategy-0078D4) ![Product Vision & Strategy](https://img.shields.io/badge/Product_Vision-0078D4) ![Product Roadmapping](https://img.shields.io/badge/Roadmapping-DAA520) ![Pricing/Positioning](https://img.shields.io/badge/Pricing-DC143C) ![Market/User Research](https://img.shields.io/badge/Market_Research-FF6347) |
