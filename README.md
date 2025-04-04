@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <img src="https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3" alt="Header Image" width="750"/>
+  <img src="https://github.com/nate-dryer/nate-dryer/blob/main/GIF_3" alt="Header Image" width="900"/>
   <p><em></p>
 </div>
     
