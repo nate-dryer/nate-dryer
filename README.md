@@ -10,7 +10,7 @@
 
 ## Hi, I'm Nate👋
   
-I'm an ex-Lyft Product Manager turned Ai/ML Freelance Consultant with 10+ years experience shipping products that scaale across multiple industries. 
+I'm an ex-Lyft **Product Manager** turned **Ai/ML Freelance Consultant** with 10+ years experience shipping products that scaale across multiple industries. 
 
 </details>
 
