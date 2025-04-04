@@ -36,3 +36,7 @@ I'm an ex-Lyft Product Manager turned Ai/ML Freelance Consultant with 10+ years 
 - **$1M+ Savings via UX Overhaul:** Cut costs & improved efficiency 25% by leading data analysis of onboarding experience.
 - **40pt NPS Lift (-15 to +25):** Launched async collaboration platform.
 - **250% Mobile Feature Expansion:** Unified platform across three merged companies, increasing customer access to mobile features from 20% to 70%.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nate-dryer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+</div>
